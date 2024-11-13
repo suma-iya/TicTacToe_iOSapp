@@ -1,1 +1,1 @@
-![Alt text](https://link-to-your-image.com/image.jpg)
+![Alt text](https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/Images/TICTAC1.jpg)
