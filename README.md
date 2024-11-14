@@ -1,7 +1,7 @@
 ## Screenshot 1  
 This photo shows the starting with a Nought.
 <br>  
-<img src="https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image1.png" width="50%" />
+<img src="https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image1.png" height = 50% width="50%" />
 
 <br>
 
@@ -15,14 +15,14 @@ This photo shows the next turn with a Cross.
 ## Screenshot 3  
 This photo shows a draw where no one got to win.  
 <br>  
-<img src="https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/iamge4.png" width="50%" />
+<img src="https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image4.png" width="50%" />
 
 <br>
 
 ## Screenshot 4  
 This photo shows the noughts winning after completing a row. This can happen vice versa as well
 <br>  
-<img src="https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image3.png" width="50%" />
+<img src="https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/iamge3.png" width="50%" />
 
 <br>
 
