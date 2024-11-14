@@ -1,17 +1,4 @@
 
-This photo shows the starting with a Nought.
-<br>  
-<img src="https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image1.png" height = 50% width="50%" />
-
-<br>
-
-This photo shows the next turn with a Cross.  
-<br>  
-<img src="https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image2.png" width="50%" />
-
-<br>
-
-
 This photo shows a draw where no one got to win.  
 <br>  
 <img src="https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image4.png" width="50%" />
