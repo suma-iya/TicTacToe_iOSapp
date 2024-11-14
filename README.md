@@ -1,5 +1,5 @@
 
-This photo shows a draw where no one got to win.  
+This photo shows a draw where no one get to win.  
 <br>  
 <img src="https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image4.png" width="50%" />
 
