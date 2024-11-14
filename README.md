@@ -1,32 +1,32 @@
 ## Screenshot 1  
-This is a screenshot showing the main menu of the Tic Tac Toe app.  
-<br>  <!-- This is an HTML line break -->
-![Alt text](https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image1.png)
+This photo shows the starting with a Nought.
+<br>  
+<img src="https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image1.png" width="50%" />
 
-<br> <!-- This will add space between images and text -->
+<br>
 
 ## Screenshot 2  
-This is a screenshot showing the game board when a player starts a game.  
-<br>  <!-- Another HTML line break -->
-![Alt text](https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image2.png)
+This photo shows the next turn with a Cross.  
+<br>  
+<img src="https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image2.png" width="50%" />
 
-<br>  <!-- Space between sections -->
+<br>
 
 ## Screenshot 3  
-This screenshot shows the game in progress.  
+This photo shows a draw where no one got to win.  
 <br>  
-![Alt text](https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/iamge3.png)
+<img src="https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/iamge4.png" width="50%" />
 
 <br>
 
 ## Screenshot 4  
-Here, you can see the endgame screen with the result of the game.  
+This photo shows the noughts winning after completing a row. This can happen vice versa as well
 <br>  
-![Alt text](https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image4.png)
+<img src="https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image3.png" width="50%" />
 
 <br>
 
 ## Screenshot 5  
-This is a screenshot of the app's settings page.  
+This photo shows the noughts winning after completing a column. This can happen vice versa as well
 <br>  
-![Alt text](https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image5.png)
+<img src="https://github.com/suma-iya/TicTacToe_iOSapp/blob/main/images/image5.png" width="50%" />
